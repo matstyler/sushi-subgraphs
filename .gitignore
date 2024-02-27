@@ -6,7 +6,6 @@ package-lock.json
 yarn.lock
 addresses.ts
 subgraphs/**/src/constants/index.ts
-subgraph.yaml
 
 .pnp.*
 **/tests/.*/
